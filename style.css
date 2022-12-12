@@ -1,0 +1,94 @@
+body{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    position: relative;
+    color: black;
+    background-color: white;
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.greet{
+ 
+    border: none;
+    font-size: 100px;
+    border-radius: 10px;
+    padding: 0px;
+    
+}
+.atmkatha{
+  
+    position: relative;
+    font-size: 30px;
+ bottom: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding:2px;
+    border: none;
+    margin: 20px;
+   
+    font-size: 30px;
+    font-weight: 50px;
+}
+
+.links{
+    background-color: black;
+    padding: 20px;
+    position: relative;
+    top: 1cm;
+    border-radius: 5px;
+}
+.user
+{
+    float: right;
+}
+.lines{
+    float: right;
+    color: aliceblue;
+    margin: 2px
+}
+
+.bottom{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    position: relative;
+    bottom: 1px;
+    margin: 10px;
+}
+
+#bottom{
+    text-align: center;
+    font-family: cursive;
+    font-size: 1.5cm;
+position: relative;
+top: 200px;
+color: white;
+}
+
+.home:hover{
+color: rgb(255, 0, 221);
+}
+
+.insta:hover{
+    color: crimson;
+
+}
+
+.facebook:hover{
+    color: blue;
+}
+
+.twitter:hover{
+    color: rgb(68, 89, 207);
+
+}
+
+.e-mail:hover{
+    color: rgb(218, 20, 20);
+}
